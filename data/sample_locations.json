@@ -1,0 +1,68 @@
+[
+  {
+    "city": "Paris",
+    "country": "France",
+    "base_cost_per_day": 120,
+    "tags": [
+      "museum",
+      "art",
+      "romantic"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "base_cost_per_day": 100,
+    "tags": [
+      "history",
+      "art",
+      "nightlife"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "city": "Barcelona",
+    "country": "Spain",
+    "base_cost_per_day": 110,
+    "tags": [
+      "beach",
+      "art",
+      "architecture"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "city": "Kyoto",
+    "country": "Japan",
+    "base_cost_per_day": 130,
+    "tags": [
+      "temples",
+      "culture",
+      "art"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "city": "New York",
+    "country": "USA",
+    "base_cost_per_day": 150,
+    "tags": [
+      "museum",
+      "nightlife",
+      "art"
+    ],
+    "continent": "North America"
+  },
+  {
+    "city": "Rome",
+    "country": "Italy",
+    "base_cost_per_day": 115,
+    "tags": [
+      "history",
+      "museum",
+      "art"
+    ],
+    "continent": "Europe"
+  }
+]
